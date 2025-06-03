@@ -4,9 +4,10 @@
 
 # Asap.jl
 Asap is...
-- the anti-SAP (2000)
-- results as Soon As Possible
-- another Structural Analysis Package
+- Another Structural Analysis Package
+- results As Soon As Possible
+- Analysis of Structures Avec Programming
+- A Simple Analysis Please
 
 Designed first-and-foremost for information-rich data structures and ease of querying, but always with performance in mind.
 
